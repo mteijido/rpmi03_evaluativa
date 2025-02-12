@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manu\\Desktop\\TRABAJOS\\rpmi03_evaluativa\\rpmi03_evaluativa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5939882-BCBA-31F4-F2D1-4D261CA5E5FB}|Assembly-CSharp.csproj|c:\\users\\manu\\desktop\\trabajos\\rpmi03_evaluativa\\rpmi03_evaluativa\\assets\\ui\\pantallainicio.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F5939882-BCBA-31F4-F2D1-4D261CA5E5FB}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\pantallainicio.uss||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5939882-BCBA-31F4-F2D1-4D261CA5E5FB}|Assembly-CSharp.csproj|C:\\Users\\Manu\\Desktop\\TRABAJOS\\rpmi03_evaluativa\\rpmi03_evaluativa\\assets\\scripts\\eventventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5939882-BCBA-31F4-F2D1-4D261CA5E5FB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eventventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5939882-BCBA-31F4-F2D1-4D261CA5E5FB}|Assembly-CSharp.csproj|C:\\Users\\Manu\\Desktop\\TRABAJOS\\rpmi03_evaluativa\\rpmi03_evaluativa\\assets\\scripts\\eventcredits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5939882-BCBA-31F4-F2D1-4D261CA5E5FB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eventcredits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5939882-BCBA-31F4-F2D1-4D261CA5E5FB}|Assembly-CSharp.csproj|C:\\Users\\Manu\\Desktop\\TRABAJOS\\rpmi03_evaluativa\\rpmi03_evaluativa\\assets\\ui\\creditos.uxml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F5939882-BCBA-31F4-F2D1-4D261CA5E5FB}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\creditos.uxml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PantallaInicio.uss",
+              "DocumentMoniker": "C:\\Users\\Manu\\Desktop\\TRABAJOS\\rpmi03_evaluativa\\rpmi03_evaluativa\\Assets\\UI\\PantallaInicio.uss",
+              "RelativeDocumentMoniker": "Assets\\UI\\PantallaInicio.uss",
+              "ToolTip": "C:\\Users\\Manu\\Desktop\\TRABAJOS\\rpmi03_evaluativa\\rpmi03_evaluativa\\Assets\\UI\\PantallaInicio.uss",
+              "RelativeToolTip": "Assets\\UI\\PantallaInicio.uss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-10T21:51:31.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventCredits.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\Desktop\\TRABAJOS\\rpmi03_evaluativa\\rpmi03_evaluativa\\Assets\\Scripts\\EventCredits.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EventCredits.cs",
+              "ToolTip": "C:\\Users\\Manu\\Desktop\\TRABAJOS\\rpmi03_evaluativa\\rpmi03_evaluativa\\Assets\\Scripts\\EventCredits.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EventCredits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:37:57.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventVentana.cs",
+              "DocumentMoniker": "C:\\Users\\Manu\\Desktop\\TRABAJOS\\rpmi03_evaluativa\\rpmi03_evaluativa\\Assets\\Scripts\\EventVentana.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EventVentana.cs",
+              "ToolTip": "C:\\Users\\Manu\\Desktop\\TRABAJOS\\rpmi03_evaluativa\\rpmi03_evaluativa\\Assets\\Scripts\\EventVentana.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EventVentana.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wDAAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:27:30.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Creditos.uxml",
+              "DocumentMoniker": "C:\\Users\\Manu\\Desktop\\TRABAJOS\\rpmi03_evaluativa\\rpmi03_evaluativa\\Assets\\UI\\Creditos.uxml",
+              "RelativeDocumentMoniker": "Assets\\UI\\Creditos.uxml",
+              "ToolTip": "C:\\Users\\Manu\\Desktop\\TRABAJOS\\rpmi03_evaluativa\\rpmi03_evaluativa\\Assets\\UI\\Creditos.uxml",
+              "RelativeToolTip": "Assets\\UI\\Creditos.uxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-10T05:27:58.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
