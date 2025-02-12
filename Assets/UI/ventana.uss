@@ -1,0 +1,29 @@
+.vboton:hover {
+    background-color: rgb(202, 229, 226);
+}
+
+.vboton {
+    background-color: rgb(192, 152, 152);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-left-color: rgb(84, 36, 36);
+    border-right-color: rgb(84, 36, 36);
+    border-top-color: rgb(84, 36, 36);
+    border-bottom-color: rgb(84, 36, 36);
+    border-top-width: 4px;
+    border-right-width: 4px;
+    border-bottom-width: 4px;
+    border-left-width: 4px;
+    align-self: center;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-size: 35px;
+}

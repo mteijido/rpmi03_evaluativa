@@ -1,0 +1,9 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/PantallaInicio.uss?fileID=7433441132597879392&amp;guid=59c3bbe7020ba214eb4bb3a3adef653a&amp;type=3#PantallaInicio" />
+    <engine:VisualElement style="flex-grow: 1; width: 100%; height: 100%; background-image: url(&quot;project://database/Assets/Imagenes/fondocreditos.png?fileID=2800000&amp;guid=3c12328d0c07c194b9f2791b2b2bceed&amp;type=3#fondocreditos&quot;);">
+        <engine:Button text="Inicio" name="InicioButton" class="boton" />
+        <engine:Button text="Jugar" name="PlayButton" class="boton" />
+        <engine:Button text="Salir" double-click-selects-word="false" name="ExitButton" class="boton" />
+        <engine:Label text="Aprendo a reciclar&#10;es un juego educativo &#10;y sin ánimo de lucro,&#10;creado integramente por&#10;Manuel Teijido Pena." style="align-self: center; align-items: auto; margin-left: 20px; margin-bottom: 30px; justify-content: space-between; align-content: auto; -unity-text-align: middle-left; -unity-font-definition: url(&quot;project://database/Assets/FuentesTexto/31497_RAVIE.ttf?fileID=12800000&amp;guid=8afa25b3a35c5b740aafe997e706dfb8&amp;type=3#31497_RAVIE&quot;); font-size: 46px; border-left-color: rgba(176, 107, 107, 0); border-right-color: rgba(176, 107, 107, 0); border-top-color: rgba(176, 107, 107, 0); border-bottom-color: rgba(176, 107, 107, 0); color: rgb(30, 79, 34); top: 1px;" />
+    </engine:VisualElement>
+</engine:UXML>
